@@ -1,13 +1,13 @@
 
 ---
 
-## 📁 2. `powerbi-sales-dashboard`
+## 2. `powerbi-sales-dashboard`
 
-### ✅ GitHub Description:
+### GitHub Description:
 
 > End-to-end Power BI dashboard with MySQL integration, DAX KPIs, drill-downs, and interactivity for chocolate sales insights.
 
-### ✅ Full `README.md` Description:
+### Full `README.md` Description:
 
 ```markdown
 # Power BI Project: Chocolate Sales Dashboard
